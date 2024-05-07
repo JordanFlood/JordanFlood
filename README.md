@@ -25,7 +25,7 @@ My toolkit includes a robust set of technologies listed below:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jordanflood&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
