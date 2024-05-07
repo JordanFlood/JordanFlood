@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm a **Data Analyst** hailing from the lush, green landscapes of Ireland, currently soaking up the sun and culture in Spain. With a passion for turning raw data into compelling stories and actionable insights, I thrive on challenges that can stretch my analytical skills.
+I'm a **Data Analyst** hailing from Ireland, currently soaking up the sun and culture in Spain. With a passion for turning raw data into compelling stories and actionable insights, I thrive on challenges that can stretch my analytical skills.
 
 # 🌱 **Always Learning:**
 
