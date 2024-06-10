@@ -1,6 +1,6 @@
 # 👋 About Me:
 
-I'm a **Data Analyst** hailing from Ireland, currently soaking up the sun and culture in Spain. With a passion for turning raw data into compelling stories and actionable insights, I thrive on challenges that can stretch my analytical skills.
+I'm a **Data Analyst** hailing from Ireland, soaking up the sun and culture in Spain. With a passion for turning raw data into compelling stories and actionable insights, I thrive on challenges that can stretch my analytical skills.
 
 ## 🌱 **Always Learning:**
 
@@ -8,7 +8,7 @@ I'm a **Data Analyst** hailing from Ireland, currently soaking up the sun and cu
 
 ## 🔗 **Connect & Collaborate:**
 
-I'm always open to connecting with fellow data enthusiasts or anyone intrigued by the power of analytics. Whether you're in Ireland, Spain, or anywhere else in the world, let's chat about data, technology, and everything in between!
+I'm always open to connecting with fellow data enthusiasts or anyone intrigued by the power of analytics. Let's chat!
 
 ## 💻 Tech Stack:
 
